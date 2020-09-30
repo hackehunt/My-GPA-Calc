@@ -1,6 +1,9 @@
+#-----------------------Importing from Classes.py and ErrorMsg.py
+
 from Classes.Course import Course
 from Classes.ErrorMsg import ErrorMsg
 
+#-----------------------Main calculator programme
 
 class Calculator:
     gpa = 0
